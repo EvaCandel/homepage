@@ -4,6 +4,8 @@ Check it out here: https://evacandel.github.io/homepage/
 
 ## 📸 Preview
 
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/799c982b-5cd5-40c0-b317-c57f7a05cd5e" />
+
 
 ## 🛠️ Technologies Used
 
